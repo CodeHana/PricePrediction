@@ -4,13 +4,18 @@ Home prices are influcend by many factors, including the supply of homes and loc
 
 ### Question:
 The goal of this project is to help the users knowing 
-(1) What is the value of the house price? (Is the price listed by the realter overpriced too much?)
-(2) What
+- (1) Knowing what is the trend of the overall house price changes in bay area
+- (2) What is the value of the house price? (Is the price listed by the realter overpriced too much?)
 
 ### Data:
-
+- [Zillow](https://www.zillow.com/)
+- [Realtor](https://www.realtor.com/)
+- 
 
 ### Tools:
+SciKit-Learn: 
+statsmodels:
+
 
 ### Credit:
 [Bay Area Market Reports](https://www.bayareamarketreports.com/trend/san-francisco-home-prices-market-trends-news)
