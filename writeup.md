@@ -6,20 +6,19 @@ Cindy Su
 The goal is to predict the house value in the bay area and help in knowing  what is value of the house ? 
 - Is the price listed by the realter overpriced within a reasonable range
 - 
-## Appraches 
 
-Explore the Sklearn Linear Regression, PolynomialFeatures model, as well as Lasso Model to find he best modeling through feature engineering 
+- Explore the Sklearn modLinear Regression, PolynomialFeatures model, as well as Lasso Model to find he best modeling through feature engineering 
 
 ## Data
+Web scrapping using BeautifulSoup and collect data from 
+
 - [Zillow](https://www.zillow.com/) - Focus on Alameda and Santa Clara County
 - [Median Household Income in California](http://zipatlas.com/us/ca/zip-code-comparison/median-household-income.htm)
 
-
-## Analysis Strategies
-- Considerthe both exits and entries everyday traffic through the period of 05/01/2021 - 08/31/2021. 
-- Examine the total traffic rank the top 10 stations per weekday and weekend. 
-- Checked the traffic of week days per top 10 stations 
-- Confirm the analyzed result on the map and cross check with the household incom NYC to make final suggestions
+## Appraches 
+- Collected 32 features, including Bedroom, Bathroom, Parking numbers ... to Material minimum school distance.. 
+- Adopt feature engineering and merge the house info with median house income per zipcode 
+- Explore the Sklearn modLinear Regression, PolynomialFeatures model, as well as Lasso Model to find he best modeling 
 
 ### Tools:
 - SciKit-Learn: 
