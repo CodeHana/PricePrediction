@@ -1,16 +1,9 @@
 # PricePrediction
 Bay Area House Price Prediction 
 
-# Home Price Prediction - Bay Are 
-
-Cindy Su
-
 ## Abstract
 The goal is to predict the house value in the bay area and help in knowing  what is value of the house ? 
 - Is the price listed by the realter overpriced within a reasonable range
-- 
-
-- Explore the Sklearn modLinear Regression, PolynomialFeatures model, as well as Lasso Model to find he best modeling through feature engineering 
 
 ## Data
 Web scrapping using BeautifulSoup and collect data from 
